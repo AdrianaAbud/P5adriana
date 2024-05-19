@@ -13,3 +13,4 @@ function setup() {
       rect(mouseX, mouseY, 20, 35);
     }
   }
+  
